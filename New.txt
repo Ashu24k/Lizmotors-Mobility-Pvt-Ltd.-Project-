@@ -1,0 +1,67 @@
+Assignment Overview:
+
+Business Case Study:
+
+A Car Manufacturer is planning to build a new vehicle and wishes to divide the project into five phases:
+
+1.Market Research
+2.Planning
+3.Design
+4.Manufacturing
+5.Sales
+
+Your Task:
+The management team requires a detailed breakdown of each phase visualized on a timeline-mindmap Dashboard.
+
+
+This will involve the following:
+1.Designing an interactive timeline-mindmap that allows users to navigate through the different phases of the car manufacturing process.
+2.Implementing a feature that displays details for each phase when users hover over the corresponding segment of the timeline-mindmap.
+3.Ensuring that the design is user-friendly, accessible, and visually appealing.
+
+
+
+Frequently Asked Questions:
+
+Q: Should I strictly follow the provided Dashboard PNG for the design?
+A: The PNG file should serve as a reference point. We invite you to add your own creative touch to the design to make it more intuitive and clear.
+
+
+Q: Is the interface supposed to allow users to dynamically add, edit, or delete nodes in the timeline-mindmap?
+A: A dynamic interface is preferred, and while the add/delete node functionality is not mandatory, including it will add significant value to your submission.
+
+
+Q: What data should be displayed when hovering over a section?
+A: Feel free to use placeholder data for statistics when hovering over sections.
+
+
+Q: Does navigating through different phases or nodes mean that users can click on each phase for further interaction?
+A: Users should be able to click or hover over each node to see more details or potentially be redirected to another window or card. This feature is optional but will be considered a plus.
+
+
+Q: Do I need to implement the authentication flow, like sign-up and sign-in features?
+A: No, that is not required for this assignment.
+
+Q: Can users edit the phases? The instructions mention an 'interactive' design.
+A: Editing capabilities are not required but showing your creative approach here can be advantageous.
+
+
+Q: How many pages should the dashboard have?
+A: The dashboard should consist of a single main page, with the possibility of displaying pop-up windows for detailed views of any node.
+
+
+Q: Can I use libraries like Three.js, D3.js, or React-flow?
+A: Yes, you are free to use any of these libraries.
+
+
+Q: Can I use Tailwind CSS in React.js for this assignment?
+A: Yes, Tailwind CSS is permissible and can be used with React.js.
+
+
+Q: Would you prefer a sidebar or a navbar for the Dashboard?
+A: This is not a specific requirement; we encourage you to use whichever you feel complements your design best.
+
+
+Q: Regarding the submission form, should the upload assignment option be used for the dashboard image/output?
+A: Yes, please submit both the output design image and the link to your GitHub repository.
+
